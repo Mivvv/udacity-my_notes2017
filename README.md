@@ -1,2 +1,6 @@
-# udacity-my_notes2017
-My Notes about HTML &amp; CSS for Intro to Programming Nanodegree
+# Notes about HTML & CSS of Deniz
+
+These are what I deemed important throughout the course
+about HTML & CSS.
+
+Also they are implemented into this notes file.
